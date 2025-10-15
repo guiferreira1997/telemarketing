@@ -1,10 +1,13 @@
-# PROJETO TELEMARKETING - EBAC
+# Projeto Telemarketing - EBAC
 
 Um simples resumo do uso/propósito do projeto.
 
 ## Descrição do projeto
 
 Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+
+## Link para aplicação (LIVE)
+https://telemarketing-3z61.onrender.com
 
 ## Utilização
 
@@ -37,8 +40,8 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+ex. Guilherme Amorim
+ex. [@GuilhermeAmorim](www.linkedin.com/in/guilhermeamorimferreira)
 
 ## Histórico de versões.
 
@@ -49,7 +52,7 @@ ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
 
 ## Licença de uso
 
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
+Esse projeto possui licença de uso [Guilherme Amorim] - acesse o arquivo LICENSE.md para mais detalhes.
 
 ## Fontes de inspiração
 
