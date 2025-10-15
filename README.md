@@ -40,8 +40,8 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Guilherme Amorim
-ex. [@GuilhermeAmorim](www.linkedin.com/in/guilhermeamorimferreira)
+Guilherme Amorim
+[@GuilhermeAmorim](www.linkedin.com/in/guilhermeamorimferreira)
 
 ## Histórico de versões.
 
