@@ -1,4 +1,4 @@
-# Título do projeto
+# PROJETO TELEMARKETING - EBAC
 
 Um simples resumo do uso/propósito do projeto.
 
